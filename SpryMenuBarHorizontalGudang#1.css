@@ -98,13 +98,13 @@ ul.MenuBarHorizontal a
 /* Menu items that have mouse over or focus have a blue background and white text */
 ul.MenuBarHorizontal a:hover, ul.MenuBarHorizontal a:focus
 {
-	background-color: #33C;
+	background-image: url(https://4.bp.blogspot.com/-uSL8BDlfqsM/V8eXSgYbRkI/AAAAAAAABTQ/jnx3fvDe0vQuYY95xd2fo33mUGHANu4-QCLcB/s1600/hcommon.jpg);
 	color: #FFF;
 }
 /* Menu items that are open with submenus are set to MenuBarItemHover with a blue background and white text */
 ul.MenuBarHorizontal a.MenuBarItemHover, ul.MenuBarHorizontal a.MenuBarItemSubmenuHover, ul.MenuBarHorizontal a.MenuBarSubmenuVisible
 {
-	background-color: #33C;
+	background-image: url(https://4.bp.blogspot.com/-uSL8BDlfqsM/V8eXSgYbRkI/AAAAAAAABTQ/jnx3fvDe0vQuYY95xd2fo33mUGHANu4-QCLcB/s1600/hcommon.jpg);
 	color: #FFF;
 }
 
