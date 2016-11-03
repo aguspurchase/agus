@@ -90,7 +90,7 @@ ul.MenuBarHorizontal a
 {
 	display: block;
 	cursor: pointer;
-	background-color: #EEE;
+	background-image: url(https://4.bp.blogspot.com/-uSL8BDlfqsM/V8eXSgYbRkI/AAAAAAAABTQ/jnx3fvDe0vQuYY95xd2fo33mUGHANu4-QCLcB/s1600/hcommon.jpg);
 	padding: 0.5em 0.75em;
 	color: #333;
 	text-decoration: none;
@@ -99,13 +99,11 @@ ul.MenuBarHorizontal a
 ul.MenuBarHorizontal a:hover, ul.MenuBarHorizontal a:focus
 {
 	background-image: url(https://4.bp.blogspot.com/-uSL8BDlfqsM/V8eXSgYbRkI/AAAAAAAABTQ/jnx3fvDe0vQuYY95xd2fo33mUGHANu4-QCLcB/s1600/hcommon.jpg);
-	color: #FFF;
 }
 /* Menu items that are open with submenus are set to MenuBarItemHover with a blue background and white text */
 ul.MenuBarHorizontal a.MenuBarItemHover, ul.MenuBarHorizontal a.MenuBarItemSubmenuHover, ul.MenuBarHorizontal a.MenuBarSubmenuVisible
 {
 	background-image: url(https://4.bp.blogspot.com/-uSL8BDlfqsM/V8eXSgYbRkI/AAAAAAAABTQ/jnx3fvDe0vQuYY95xd2fo33mUGHANu4-QCLcB/s1600/hcommon.jpg);
-	color: #FFF;
 }
 
 /*******************************************************************************
